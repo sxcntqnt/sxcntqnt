@@ -1,6 +1,6 @@
 # 💫 About Me:
-Checkout our website: https://sxcntcnqunts.com/
-Here’s a filled-in version using emojis:<br><br>🔭 I’m currently working on **GraphQL projects** and building **APIs**  <br>👯 I’m looking to collaborate on **blockchain development with Solidity**  <br>🤝 I’m looking for help with **optimizing smart contracts**  <br>🌱 I’m currently learning **advanced data structures in Solidity**  <br>💬 Ask me about **data science, machine learning, and blockchain**  <br>⚡ Fun fact: I love mixing **data science** with **finance** to find hidden insights!
+Checkout our website:🐱‍👤🌍 https://sxcntcnqunts.com/ 🐱‍👤🌍
+🔭 I’m currently working on **GraphQL projects** and building **APIs**  <br>👯 I’m looking to collaborate on **blockchain development with Solidity**  <br>🤝 I’m looking for help with **optimizing smart contracts**  <br>🌱 I’m currently learning **advanced data structures in Solidity**  <br>💬 Ask me about **data science, machine learning, and blockchain**  <br>⚡ Fun fact: I love mixing **data science** with **finance** to find hidden insights!
 
 
 # 💻 Tech Stack:
