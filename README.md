@@ -16,6 +16,6 @@ Checkout our website:🐱‍👤🌍 https://sxcntcnqunts.com/ 🐱‍👤🌍 <
 ---
 [![](https://visitcount.itsvg.in/api?id=sxcntqnt&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a3bf761c-4ddf-43ac-a159-e6dcecf52c98" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
